@@ -22,16 +22,16 @@ export default function Coupon({
         <div className="text-gray-700">
           <p className="mb-4">
             Quem não gosta de uma boa pechincha, não é mesmo? Aqui na nossa loja
-            de pimentas mexicanas, queremos que você tenha a melhor experiência de
-            compra possível, e isso inclui economizar enquanto apimenta a sua
+            de pimentas mexicanas, queremos que você tenha a melhor experiência
+            de compra possível, e isso inclui economizar enquanto apimenta a sua
             vida!
           </p>
           <p className="mb-4">
-            Com nossos cupons de desconto, você pode experimentar mais variedades
-            de pimentas, adicionar aquele molho especial ao carrinho e até levar
-            um óleo de pimenta para dar aquele toque final nos seus pratos, tudo
-            isso gastando menos. É como encontrar um tesouro escondido no meio da
-            selva picante!
+            Com nossos cupons de desconto, você pode experimentar mais
+            variedades de pimentas, adicionar aquele molho especial ao carrinho
+            e até levar um óleo de pimenta para dar aquele toque final nos seus
+            pratos, tudo isso gastando menos. É como encontrar um tesouro
+            escondido no meio da selva picante!
           </p>
           <p className="mb-4">
             Imagina só: você coloca no carrinho aquela seleção de pimentas que
@@ -50,7 +50,8 @@ export default function Coupon({
             uma pimentinha ardendo na boca!
           </p>
           <p className="font-bold">
-            Então não perca tempo! Copie já o seu cupom e tenha direito a {percent}% de desconto!
+            Então não perca tempo! Copie já o seu cupom e tenha direito a{" "}
+            {percent}% de desconto!
           </p>
         </div>
       </div>
